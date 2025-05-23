@@ -17,5 +17,5 @@ func KeywordWrap(keyword string) string {
 	if strs.IsBlank(keyword) {
 		return keyword
 	}
-	return "`" + keyword + "`"
+	return "\"" + keyword + "\""
 }
