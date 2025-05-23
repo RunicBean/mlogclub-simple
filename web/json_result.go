@@ -1,8 +1,8 @@
 package web
 
 import (
-	"github.com/mlogclub/simple/common/structs"
-	"github.com/mlogclub/simple/sqls"
+	"github.com/RunicBean/mlogclub-simple/common/structs"
+	"github.com/RunicBean/mlogclub-simple/sqls"
 )
 
 type JsonResult struct {

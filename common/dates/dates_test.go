@@ -5,7 +5,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/mlogclub/simple/common/dates"
+	"github.com/RunicBean/mlogclub-simple/common/dates"
 )
 
 func TestWithTimeAsEndOfDay(t *testing.T) {

@@ -4,7 +4,7 @@ import (
 	"encoding/json"
 	"log/slog"
 
-	"github.com/mlogclub/simple/common/strs"
+	"github.com/RunicBean/mlogclub-simple/common/strs"
 )
 
 func Parse(str string, t interface{}) error {

@@ -3,7 +3,7 @@ package sqls
 import (
 	"database/sql"
 
-	"github.com/mlogclub/simple/common/strs"
+	"github.com/RunicBean/mlogclub-simple/common/strs"
 )
 
 func SqlNullString(value string) sql.NullString {

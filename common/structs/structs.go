@@ -3,9 +3,10 @@ package structs
 import (
 	"errors"
 	"fmt"
-	"github.com/mlogclub/simple/common/arrays"
 	"log"
 	"reflect"
+
+	"github.com/RunicBean/mlogclub-simple/common/arrays"
 )
 
 func StructToMap(obj interface{}, excludes ...string) map[string]interface{} {

@@ -6,7 +6,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/mlogclub/simple/common/async"
+	"github.com/RunicBean/mlogclub-simple/common/async"
 )
 
 func TestAsync(t *testing.T) {

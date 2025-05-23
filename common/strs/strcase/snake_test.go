@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"testing"
 
-	"github.com/mlogclub/simple/common/strs/strcase"
+	"github.com/RunicBean/mlogclub-simple/common/strs/strcase"
 )
 
 func TestFuck(t *testing.T) {

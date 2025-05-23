@@ -3,10 +3,10 @@ package params
 import (
 	"strings"
 
+	"github.com/RunicBean/mlogclub-simple/common/strs"
+	"github.com/RunicBean/mlogclub-simple/common/strs/strcase"
+	"github.com/RunicBean/mlogclub-simple/sqls"
 	"github.com/kataras/iris/v12"
-	"github.com/mlogclub/simple/common/strs"
-	"github.com/mlogclub/simple/common/strs/strcase"
-	"github.com/mlogclub/simple/sqls"
 )
 
 type QueryOp string

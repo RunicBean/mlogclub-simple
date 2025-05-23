@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"testing"
 
-	"github.com/mlogclub/simple/common/passwd"
+	"github.com/RunicBean/mlogclub-simple/common/passwd"
 )
 
 func TestPassword(t *testing.T) {
